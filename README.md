@@ -77,7 +77,10 @@ A web application designed to simplify doctor appointment booking and management
 - User authentication
 - Doctor and appointment management
 - Administrative dashboard
+  
 **Tech Stack:** React • Node.js • Express.js • MongoDB
+
+🔗 [View Source Code](https://github.com/Bhagyashri0519/Doctor-Appointment-Booking-System)
 
   
 ---
@@ -110,7 +113,7 @@ A content-based recommendation system that suggests similar YouTube channels bas
 
 **Tech Stack:** Python • Pandas • Scikit-learn • TF-IDF • Cosine Similarity • Streamlit
 
-🔗 [View Source Code](https://github.com/your-github-username/Youtube-recommender-system)
+🔗 [View Source Code](https://github.com/Bhagyashri0519/Youtube-recommender-system)
 
 ---
 
@@ -138,15 +141,15 @@ I believe that every project is an opportunity to learn something new. I enjoy u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyashri0519&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyashri0519&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhagyashri-bhosale-a4a916385/recent-activity/all/))
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhagyashri-bhosale-a4a916385/recent-activity/all/)
 - 🐙 **GitHub:** [Explore my repositories](https://github.com/Bhagyashri0519)
 
 I'm always eager to learn, collaborate on interesting projects, explore new technologies, and connect with people who share a passion for technology and innovation.
