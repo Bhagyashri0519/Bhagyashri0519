@@ -68,6 +68,19 @@ I enjoy working with **Python, SQL, Machine Learning, and Web Development**. I l
 
 ## 🚀 Featured Projects
 
+### 🏥 Doctor Appointment Booking System
+
+A web application designed to simplify doctor appointment booking and management through separate user and administrative functionality.
+
+**Key Features:**
+- Appointment scheduling
+- User authentication
+- Doctor and appointment management
+- Administrative dashboard
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+----
+
 ### 🚦 AI-Based Smart Traffic Signal Optimization
 
 A machine learning project that predicts traffic congestion levels and analyzes CO₂ emissions to support more informed traffic signal timing decisions.
@@ -97,28 +110,6 @@ A content-based recommendation system that suggests similar YouTube channels bas
 **Tech Stack:** Python • Pandas • Scikit-learn • TF-IDF • Cosine Similarity • Streamlit
 
 🔗 [View Source Code](https://github.com/your-github-username/Youtube-recommender-system)
-
----
-
-### 🌱 Green AI – Tree Survival Prediction
-
-A machine learning project developed as part of the Skills4Future Advanced Course in Green Skills & AI, focused on predicting tree survival to support environmental sustainability.
-
-**Tech Stack:** Python • Machine Learning • Data Analysis
-
----
-
-### 🏥 Doctor Appointment Booking System
-
-A web application designed to simplify doctor appointment booking and management through separate user and administrative functionality.
-
-**Key Features:**
-- Appointment scheduling
-- User authentication
-- Doctor and appointment management
-- Administrative dashboard
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB
 
 ---
 
@@ -154,16 +145,14 @@ I believe that every project is an opportunity to learn something new. I enjoy u
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-- 🐙 **GitHub:** [Explore my repositories](https://github.com/your-github-username)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhagyashri-bhosale-a4a916385/recent-activity/all/))
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/Bhagyashri0519)
 
 I'm always eager to learn, collaborate on interesting projects, explore new technologies, and connect with people who share a passion for technology and innovation.
 
 ---
 
 ## ⚡ Fun Fact
-
-I enjoy **gardening, playing badminton, drawing, and exploring new places**. 🌱🏸🎨
 
 I believe that learning never stops, and every small step brings us closer to our goals.
 
