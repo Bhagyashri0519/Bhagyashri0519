@@ -77,9 +77,10 @@ A web application designed to simplify doctor appointment booking and management
 - User authentication
 - Doctor and appointment management
 - Administrative dashboard
-
 **Tech Stack:** React • Node.js • Express.js • MongoDB
-----
+
+  
+---
 
 ### 🚦 AI-Based Smart Traffic Signal Optimization
 
